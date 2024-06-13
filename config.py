@@ -8,7 +8,7 @@ OWNER = int(os.environ.get("OWNER", "1242556540"))
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "Files_renamer_Dp_bot")
 
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "dp_botz")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002031041556"))
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001789244683"))
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://Aloneboy:Aloneboytg@cluster0.nmeelsr.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DB_NAME", "renamebot-premium")
